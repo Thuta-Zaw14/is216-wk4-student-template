@@ -9,7 +9,7 @@
     <h1>Please select your login option</h1>
     <!-- Add/modify code in the following to have a dropdown list 
         which lets the user to select either to login with username or email -->
-    <select v-model = "selection ">
+    <select v-model = "selection">
         <option selected value ="username">Username login</option>
         <option value = "email">Email login</option>
     </select>
