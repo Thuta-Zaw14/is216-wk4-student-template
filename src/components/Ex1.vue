@@ -4,7 +4,7 @@
     // Add code here
     // challenge: use array  
     const message = ref("Choose your fav")
-    const fruits = ref (["apple","orange","peach"])
+    const fruits = ref (["apple","orange","peach",])
     
 </script>
 
